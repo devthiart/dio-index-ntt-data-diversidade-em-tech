@@ -12,3 +12,4 @@ Here you can see the list of my projects developed during the "NTT Data - Divers
 
 ## Angular
  - [Trabalhando com Componentes Angular](https://github.com/devthiart/dio-angular-components)
+ - [LifeCycle Hooks Angular](https://github.com/devthiart/dio-angular-lifecycle-hooks)
