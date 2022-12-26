@@ -15,3 +15,4 @@ Here you can see the list of my projects developed during the "NTT Data - Divers
  - [LifeCycle Hooks Angular](https://github.com/devthiart/dio-angular-lifecycle-hooks)
  - [Single Page Application com Angular](https://github.com/devthiart/dio-angular-single-page-application)
  - [Módulos Angular](https://github.com/devthiart/dio-angular-modules)
+ - [Trabalhando com Rotas no Angular](https://github.com/devthiart/dio-angular-route)
