@@ -15,5 +15,7 @@ Here you can see the list of my projects developed during the "NTT Data - Divers
  - [LifeCycle Hooks Angular](https://github.com/devthiart/dio-angular-lifecycle-hooks)
  - [Single Page Application com Angular](https://github.com/devthiart/dio-angular-single-page-application)
  - [Módulos Angular](https://github.com/devthiart/dio-angular-modules)
+ - [Criando um Blog com Angular](https://github.com/devthiart/dio-angular-blog)
  - [Trabalhando com Rotas no Angular](https://github.com/devthiart/dio-angular-route)
  - [Trabalhando com Services no Angular](https://github.com/devthiart/dio-angular-services)
+ - [Criando um clone do BuzzFeed com Angular](https://github.com/devthiart/dio-angular-buzzfeed-quiz)
