@@ -6,6 +6,7 @@ Here you can see the list of my projects developed during the "NTT Data - Divers
 
 ## HTML
  - [Criando uma página web utilizando as tags HTML aprendidas.](https://github.com/devthiart/dio-html)
+ - [Criando seu primeiro site completo com HTML.](https://github.com/devthiart/dio-html-veterinary-clinic)
 
 ## JavaScript
  - [Trabalhando com Web Components no Front-end](https://github.com/devthiart/dio-working-with-web-components)
